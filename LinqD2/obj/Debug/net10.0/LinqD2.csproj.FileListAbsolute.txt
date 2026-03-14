@@ -1,0 +1,28 @@
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\bin\Debug\net10.0\LinqD2.exe
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\bin\Debug\net10.0\LinqD2.deps.json
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\bin\Debug\net10.0\LinqD2.runtimeconfig.json
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\bin\Debug\net10.0\LinqD2.dll
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\bin\Debug\net10.0\LinqD2.pdb
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.AssemblyInfoInputs.cache
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.AssemblyInfo.cs
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.csproj.CoreCompileInputs.cache
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.dll
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\refint\LinqD2.dll
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.pdb
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\LinqD2.genruntimeconfig.cache
+C:\Users\Hashish\Desktop\iti dotnet\LinqD2\LinqD2\obj\Debug\net10.0\ref\LinqD2.dll
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\bin\Debug\net10.0\LinqD2.exe
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\bin\Debug\net10.0\LinqD2.deps.json
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\bin\Debug\net10.0\LinqD2.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\bin\Debug\net10.0\LinqD2.dll
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\bin\Debug\net10.0\LinqD2.pdb
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.dll
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\refint\LinqD2.dll
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.pdb
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\LinqD2.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\LINQ day 2\LinqD2\obj\Debug\net10.0\ref\LinqD2.dll
